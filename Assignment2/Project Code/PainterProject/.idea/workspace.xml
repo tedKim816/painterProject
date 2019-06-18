@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb15892-a797-4869-bfae-000e3029dff9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="painterProject-2-2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUI/FrameDesign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="588" column="32" selection-start-line="588" selection-start-column="28" selection-end-line="588" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sadadasd.vec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example1.vec">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/FrameDesignTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2546">
+              <caret line="145" column="65" selection-start-line="145" selection-start-column="65" selection-end-line="145" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42560">
+              <caret line="2490" column="15" selection-start-line="2490" selection-start-column="15" selection-end-line="2490" selection-end-column="15" />
+              <folding>
+                <element signature="e#86149#86150#0" expanded="true" />
+                <element signature="e#86173#86174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ReadingTheFile#0;class#VecConverter#0" />
+                <element signature="method#Save#0;class#VecConverter#0" />
+                <element signature="method#String2PenType#0;class#VecConverter#0" />
+                <element signature="method#PenType2String#0;class#VecConverter#0" />
+                <element signature="method#Color2String#0;class#VecConverter#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#WriteInInFile#0;class#VecWriter#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shapes/PenType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shapes/Pen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="224" column="41" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+              <folding>
+                <element signature="method#Pen#0;class#Pen#0" />
+                <element signature="method#Pen#1;class#Pen#0" />
+                <element signature="method#Pen#2;class#Pen#0" />
+                <element signature="method#Pen#3;class#Pen#0" />
+                <element signature="method#DrawPoint#0;class#Pen#0" />
+                <element signature="method#DrawLine#0;class#Pen#0" />
+                <element signature="method#DrawCircle#0;class#Pen#0" />
+                <element signature="method#DrawEllipse#0;class#Pen#0" />
+                <element signature="method#DrawRectangle#0;class#Pen#0" />
+                <element signature="method#DrawPolygon#0;class#Pen#0" />
+                <element signature="method#AddPolygonPoint#0;class#Pen#0" />
+                <element signature="method#buildInArray#0;class#Pen#0" />
+                <element signature="method#getPolyCoordinates#0;class#Pen#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>penTypes</find>
+      <find>marginY</find>
+      <find>InitPenColor</find>
+      <find>JButton</find>
+      <find>CreateToolButtons</find>
+      <find>LineColorButton</find>
+      <find>ShapeBtnTrigger</find>
+      <find>btnTrigger</find>
+      <find>GetPressButtonIndex</find>
+      <find>CreateColorButtons</find>
+      <find>statetool</find>
+      <find>stateTool</find>
+      <find>txt</find>
+      <find>TopPanel</find>
+      <find>boundaryY</find>
+      <find>xGap</find>
+      <find>boundX</find>
+      <find>this.title</find>
+      <find>record.add</find>
+      <find>Graphics</find>
+      <find>getContentPane</find>
+      <find>getStroke</find>
+      <find>paint</find>
+      <find>188</find>
+      <find>setInitPenColor</find>
+      <find>IsDrawing</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Shapes/MouseTrigger.java" />
+        <option value="$PROJECT_DIR$/src/GUI/MenuBar.java" />
+        <option value="$PROJECT_DIR$/src/FileProcessor/MenuBar.java" />
+        <option value="$PROJECT_DIR$/src/Tool/Tool.java" />
+        <option value="$PROJECT_DIR$/src/Tools/Tool.java" />
+        <option value="$PROJECT_DIR$/src/GUI/DDImpl.java" />
+        <option value="$PROJECT_DIR$/sadadasd.vec" />
+        <option value="$PROJECT_DIR$/src/FileProcessor/VecConverter.java" />
+        <option value="$PROJECT_DIR$/src/GUI/FrameDesignTest.groovy" />
+        <option value="$PROJECT_DIR$/src/GUI/FrameDesignTest.java" />
+        <option value="$PROJECT_DIR$/src/Shapes/Pen.java" />
+        <option value="$PROJECT_DIR$/src/FileProcessor/VecWriter.java" />
+        <option value="$PROJECT_DIR$/src/FileProcessor/VecReader.java" />
+        <option value="$PROJECT_DIR$/src/Test/FrameDesignTest.java" />
+        <option value="$PROJECT_DIR$/src/GUI/FrameDesign.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FileProcessor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PainterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PainterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559481832414" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="GUI" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GUI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FrameDesign">
+    <configuration name="FrameDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.FrameDesign" />
+      <module name="painterProject-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileProcessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameDesignTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="painterProject-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FrameDesignTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameDesignTest.TestDrawPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="painterProject-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FrameDesignTest" />
+      <option name="METHOD_NAME" value="TestDrawPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameDesignTest.TestLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="painterProject-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FrameDesignTest" />
+      <option name="METHOD_NAME" value="TestLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameDesignTest.TestTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="painterProject-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FrameDesignTest" />
+      <option name="METHOD_NAME" value="TestTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FrameDesign" />
+        <item itemvalue="JUnit.FrameDesignTest" />
+        <item itemvalue="JUnit.FrameDesignTest.TestLine" />
+        <item itemvalue="JUnit.FrameDesignTest.TestDrawPoint" />
+        <item itemvalue="JUnit.FrameDesignTest.TestTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb15892-a797-4869-bfae-000e3029dff9" name="Default Changelist" comment="" />
+      <created>1559037509264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559037509264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 30m 52s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 35m 19s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest_TestDrawPoint - 2019.06.02 at 22h 43m 00s.xml">
+      <configuration name="FrameDesignTest.TestDrawPoint" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 43m 44s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 44m 07s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest_TestLine - 2019.06.02 at 22h 49m 51s.xml">
+      <configuration name="FrameDesignTest.TestLine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest_TestLine - 2019.06.02 at 22h 51m 33s.xml">
+      <configuration name="FrameDesignTest.TestLine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest_TestLine - 2019.06.02 at 22h 51m 49s.xml">
+      <configuration name="FrameDesignTest.TestLine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 51m 57s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameDesignTest - 2019.06.02 at 22h 59m 59s.xml">
+      <configuration name="FrameDesignTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21543624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" weight="0.32152975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026846" side_tool="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Shapes/Pen.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FileProcessor/VecWriter.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Shapes/Pen.java</url>
+          <line>21</line>
+          <properties class="Shapes.Pen" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Shapes/MouseTrigger.java" />
+    <entry file="file://$PROJECT_DIR$/src/FileProcessor/MenuBar.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tools/Tool.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/DDImpl.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Integer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Float.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17917">
+          <caret line="1011" column="16" selection-start-line="1011" selection-start-column="16" selection-end-line="1011" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3952">
+          <caret line="249" column="11" selection-start-line="249" selection-start-column="8" selection-end-line="249" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7714">
+          <caret line="448" column="10" selection-start-line="448" selection-start-column="10" selection-end-line="448" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71839">
+          <caret line="3926" column="16" selection-start-line="3926" selection-start-column="16" selection-end-line="3926" selection-end-column="16" />
+          <folding>
+            <element signature="e#14922#14923#0" expanded="true" />
+            <element signature="e#14946#14947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/FrameDesignTest.groovy" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/FrameDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="588" column="32" selection-start-line="588" selection-start-column="28" selection-end-line="588" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sadadasd.vec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example1.vec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/FrameDesignTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="145" column="65" selection-start-line="145" selection-start-column="65" selection-end-line="145" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42560">
+          <caret line="2490" column="15" selection-start-line="2490" selection-start-column="15" selection-end-line="2490" selection-end-column="15" />
+          <folding>
+            <element signature="e#86149#86150#0" expanded="true" />
+            <element signature="e#86173#86174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ReadingTheFile#0;class#VecConverter#0" />
+            <element signature="method#Save#0;class#VecConverter#0" />
+            <element signature="method#String2PenType#0;class#VecConverter#0" />
+            <element signature="method#PenType2String#0;class#VecConverter#0" />
+            <element signature="method#Color2String#0;class#VecConverter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileProcessor/VecWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#WriteInInFile#0;class#VecWriter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shapes/PenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shapes/Pen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="224" column="41" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+          <folding>
+            <element signature="method#Pen#0;class#Pen#0" />
+            <element signature="method#Pen#1;class#Pen#0" />
+            <element signature="method#Pen#2;class#Pen#0" />
+            <element signature="method#Pen#3;class#Pen#0" />
+            <element signature="method#DrawPoint#0;class#Pen#0" />
+            <element signature="method#DrawLine#0;class#Pen#0" />
+            <element signature="method#DrawCircle#0;class#Pen#0" />
+            <element signature="method#DrawEllipse#0;class#Pen#0" />
+            <element signature="method#DrawRectangle#0;class#Pen#0" />
+            <element signature="method#DrawPolygon#0;class#Pen#0" />
+            <element signature="method#AddPolygonPoint#0;class#Pen#0" />
+            <element signature="method#buildInArray#0;class#Pen#0" />
+            <element signature="method#getPolyCoordinates#0;class#Pen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>painterProject-2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
